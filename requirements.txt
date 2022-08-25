@@ -1,0 +1,2 @@
+Django==4.1
+#Este archivo se crea como buena practica para tener el nombre de todas las librerias que instale en mi entorno virtual
